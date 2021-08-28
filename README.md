@@ -6,7 +6,7 @@ The ACS is a large-scale survey conducted by the United States Census every year
 I use an individual-level version of the ACS sample that is provided through the USA IPUMS program housed at the Minnesota Population Center in this project. IPUMS now o ers microdata related to other US-based surveys, as well as census microdata from over 100 other countries. More information about IPUMS can be found at the https://www.ipums.org/
 
 **Purpose:**           
-The purpose of this project is to study migration, specifically examine the relationship between income and migration. Florida is the targeted states in this project.
+The purpose of this project is to study migration, specifically examine the relationship between income and migration. Florida is the targeted states in this project, see the data file ``Florida.rds``.
 
 **Structure:**            
 The structure of the report is somewhat looser, but still in the spirit of the logistic regression method.Three analysis parts are included in the report.  
